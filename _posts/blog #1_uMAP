@@ -1,0 +1,16 @@
+Today's paper is reported here:
+
+Geri, J. B. et al. Microenvironment mapping via Dexter energy transfer on immune cells. Science 367, 1091–1097 (2020).
+
+David MacMillan has pioneered, along with Ben List, a way to construct chiral molecule by using chirally active organocatalysts, known as organocatalysis. Their work was recognized by Nobel Committee in 2021. His other research program centers around the photoredox catalysis, which utilizes two metals, iron and nickel. Iron photocatalyst is activated by visible light, entering a singlet excited excited state and subsequently intercross into long-lived triplet state (Ru triplet state T1/2 ~ 1100 ns). This makes the iron a potent oxidant AND reductant which participates in the single electron transfer with its substrate (carboxylic acid, as oxidant) and dual metal (nickel, as reductant). The photoredox catalysis has been extensitvely used in a number of synthetic methodology papers and now is extended to a chemical biology tool.
+
+In this paper, the authors recognized that there is a limited number of tools to study complex protein-protien interactions of membrane proteins. Specifically, they were interested in labelling the client proteins in close proximity to the host proteins. Platforms pre-existing to this publication used enzymatic labelling : 1) APEX - utilizing an engineered ascorbate peroxidase that turns biotin-phenol into biotin-phenoxy radical, which is short-lived (T1/2 ~ < 1 ms) and thus allowing the proxmity labelling in the < 20 nm range AND retains its activity even in reducing environment unlike SPPLAT; 2) BioID, which utilizes the biotin ligase activity formed by creating a pool of Biotinylated AMP, which can reactive with primary amines of nearby proteins. Unlike the aforementioned platforms, the reported platform in this paper utilizes photoaffinity labelling tag, which in the vicinity of target protein (1 nm), is converted to a reactive carbene through the dexter energy transfer from light-activated Ir-containing secondary antibody.
+
+The authors showed the excellent spatial resolution of their technology to differentiate the microenvironments of three membrane proteins, CD45, CD47 and CD29 in Jurkat cells. As these proteins are not known in literature to be associated, their interacting partners should not be shared. The uMAP showed that some interactors are shared amongst the pair of the three proteins, but not all three proteins. In contrast, the state of the art SPPLAT did not resolve the spatial distinction as some interactors came up in all three proteins.
+
+The uMAP platform is very powerful as it can resolve the interactome at a nanometer scale. In addition to the cell surface proteins, the platform has already been used for the chromatin interactome mapping:
+
+Seath, C. P. et al. Tracking chromatin state changes using nanoscale photo-proximity labelling. Nature 1–7 (2023).
+
+In my views, as we see further improvement in resolution of this technology, this could allow the site-specific resolution of protein interactome. For instance, a protein might interact with two partners at two different sites in an unknown order. One can imagine that by introducing iridium tags at these two sites, one can resolve the sites of interactome. I think that would be very cool!
+
