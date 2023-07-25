@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, my name is Ji Sung Park. I am an organic chemist / medicinal chemist by training. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am interested in genome editing technologies as next-gen therapeutic modalities and as chemical biology tools to facilitate the discovery of traditional small molecule drugs. 
