@@ -9,7 +9,8 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
-## **Blog #5 CRISPR-Mediated Base Editing Enables EfficientDisruption of Eukaryotic Genes through Induction ofSTOP Codons**
+## **Blog #5 CRISPR-Mediated Base Editing Enables Efficient Disruption of Eukaryotic Genes through Induction of STOP Codons**
+*2023-07-28*
 
 CRISPR-Cas9 KO screening is a versatile tool that has been extensively used in various fields. Its mechanism relies on the DSB to induce the NHEJ or HR; the former could lead to adverse cellular effects via genome rearrangment and translocation, DNA damage checkpoint activation or cell death. The homology-directed repair is much cleaner mechanism but it is low efficient. Overall, such repair mechanisms lead to non-random outcomes (1).
 
