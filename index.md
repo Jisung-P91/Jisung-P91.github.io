@@ -1,4 +1,4 @@
-Ji Sung Park
+About
 ----
 
 Hi, my name is Ji Sung Park. I am an organic chemist / medicinal chemist by training. 
