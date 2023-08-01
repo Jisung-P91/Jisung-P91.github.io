@@ -9,6 +9,43 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #6 Base editor screens for in situ mutational scanning at scale**
+*2023-07-31*
+
+Disclaimer: I wanted to spend some time with my baby daughter, so took a little break.
+
+The previous blog post was about using base editors for massively introducing the Stop codons. The base substitution at such large scale (3.4 mil sgSTOP to cover 97 - 99% of the genes) got me interested in the general overview of the base scanning tech. The general workflow of the base scanning goes like this:
+
+<img width="1037" alt="Screenshot 2023-08-01 at 12 52 53 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/10b12116-d1bb-4e6c-91d6-b22d770eb121">
+
+Figure adapted from Ref 1.
+
+There are several ways to obtain the readouts on the consequences of base substitutions. One way is via directed evolution-style where the edited and fitted genes are directly sequenced. In this fashion, one would try to maximize the diversification of genetic variation. This can be achieved by using the targeted AID-mediated mutagensis and CRISPR X, which have very diffuse editing (CRISPR X has ~ 100-nt editing window).
+
+
+Now in a more base editor scanning-stlye screen, one can measure the sgRNA abundance to determine if the base-subsituted gene was a loss-of-function/gain-of-function/neutral. In case the selected genes are not essential, a fluoresence reporter gene can be introduced and the function of target gene can be assessed by measuring the fluoresence output. 
+
+<img width="769" alt="Screenshot 2023-08-01 at 1 15 28 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/9f832b14-ad8c-48c2-80c4-da6995ad1368">
+
+Figure adapted from Ref 2.
+
+Measurement of sgRNA abundance can be done at a single-cell level by single-cell RNA-seq. This approach allowed Sankaran's group to correlate the genes responsible for loss of function of transcription factor GATA1 to the erythroid differentiation as well as how the sgRNAs are represented in those different cell types after the differentiation.
+
+<img width="424" alt="Screenshot 2023-08-01 at 1 25 58 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/fc694646-bb81-4c20-bcce-f9aaaf4d5548">
+
+Figure adapted from the graphical abstrace of Ref 3. 
+
+References.
+
+    1. Lue, N. Z. & Liau, B. B. Base editor screens for in situ mutational scanning at scale. 
+    Mol. Cell 83, 2167–2187 (2023).
+    2. Lue, N. Z. et al. Base editor scanning charts the DNMT3A activity landscape. 
+    Nat. Chem. Biol. 19, 176–186 (2023).
+    3. Martin-Rufino, J. D. et al. Massively parallel base editing to map variant effects in human hematopoiesis. 
+    Cell 186, 2456-2474.e24 (2023).
+  
+
+
 ## **Blog #5 CRISPR-Mediated Base Editing Enables Efficient Disruption of Eukaryotic Genes through Induction of STOP Codons**
 *2023-07-28*
 
