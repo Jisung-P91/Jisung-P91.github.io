@@ -9,6 +9,17 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #7 Base editor screens for in situ mutational scanning at scale - continued**
+*2023-08-02*
+
+I am still reading through this giant review paper which runs a comprehensive list of several mutational scanning approaches and compares them to the base editor scanning. The paper describes 5 ways to massively mutate a CDS of target protein to map its sequence-function landscape.
+
+1. Base editor screen (will be covered tomorrow!)
+2. CRISPR-Cas9 screens: 2/3 of the indels produced by Cas9 lead to the frameshift mutations. These mutations could lead to more deleterious outcomes for structural region of protein compared to flexible loop and thus its interpretation must be done carefully to account for possible biase in the screen readouts. Simiarly, the screen might find limited utility for screening the non-essential targets as the mutations would not affect the fitness outcomes of such targets. The advantage of this screen over base editor screening is that its large effect size might find the functional mutations in disordered proteins compared to base editor screen
+3. PE screen: nCas9 (Cas9 H840A) nicks target strand, which allows the reverse-transcriptase to conjugate the nicked 5->3 strand off the RT template of the pegRNA. Its limitation in mutational screening is its variable editing efficiency and limited to small proteins possibly because its' editing window is 13 - 43 nt and pegRNA design is very challenging.
+4. HDR screen (also known as saturation genome editing): similar to CRISPR-Cas9 screen + supplied with HDR template, which can introduce any mutations at the target gene. The limitation is its 100 nt window which necessitates multiple independent runs. Also, inevitably, to avoid subsequent cut by the Cas9, the template introduces a mutation in the PAM, which introduces the bystander mutations. 
+5. Expression library screens : The customizable protein coding sequence is introduced as a libray. Virtually any mutation can be introduced throughout the whole protein, enabling the deep mutational scanning (DMS). However, the expression cassettes ignore the chromatin context and splicing. 
+
 ## **Blog #6 Base editor screens for in situ mutational scanning at scale**
 *2023-07-31*
 
