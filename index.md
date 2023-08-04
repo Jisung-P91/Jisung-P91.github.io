@@ -9,6 +9,11 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #8 Base editor screens for in situ mutational scanning at scale - continued part 2**
+*2023-08-04*
+
+This review is very heavy, so I have yet to finish reading it. One section that caught my attention, maybe for next blog post, is the dual base editor. As you know the CBE and ABE both have a common limitation. As not all codons are editable, certain residues can't be edited. For example, CBE can't edit lysine and tyrosine. To bypass this issue, the simulataneous editing by the two base editors should expand the scope of editable codons. However, some of the major challenges in adopting this new dual editors in HTS is the unsynchronized editing efficiency of C->T and A -> G. Alternatively, the transversion BE could further expand ths scope but it is limited by again these residual transition editing. Two other approaches include the relaxed-PAM BE and RNA base editor containing Cas13. 
+
 ## **Blog #7 Base editor screens for in situ mutational scanning at scale - continued**
 *2023-08-02*
 
