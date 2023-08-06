@@ -9,6 +9,15 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #9 Base editor screens for in situ mutational scanning at scale - continued part 3**
+*2023-08-05*
+
+Still reading this comprehensive review on the base editor scanning and finally done.
+
+Continuing from the last post on the limitation of using BEs for pooled screening. One big challenge is the bystander mutation which is an inevitable outcome of processivity of the base editing that covers +4 to +8 window for editing. In addition to multiple C->T/A->G mutations within the expected window, the edges of the window (+9 to +11 nt), commonly at the TA and TC motifs, can be subject to the editing. This is termed out-of-window bystander mutation. These out-of-window mutations can be more pronounced in the screening format as the rare mutations might give a fitness benefits thus enriching the sgRNA by bias. 
+
+The prevention of the screening bias on the rare mutations can be done by transient expression of the base editor through electroporation which is known to lead to shorter half-life compared with lentiviral (would be stably expressing the protein) or mRNA/plasmid-based delivery. Alternatively, ABE9, which has ~ 2 nt editing window, should address the unwanted bystander mutations. However, when the editing window is shortened, that often leads to lower editing efficiency/limited access to desired mutation due to absence of PAM. This can potentially be address by the PAM-less Cas9 variant. This however could lead to many off-target? Another option is to use an imperfect gRNA, which will be even more imperfect after the base editing is finished. 
+
 ## **Blog #8 Base editor screens for in situ mutational scanning at scale - continued part 2**
 *2023-08-04*
 
