@@ -9,6 +9,35 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #10 Massively parallel base editing to map variant effects in human hematopoiesis** ##
+*2023-08-06*
+
+About 50% of the pathogenic mutations are occuring at a single nucleceotide level. A general methodology that can map the genetic mutations to functional outcomes will be indispensable for understanding the human biology and pathology as well as the development of therapeutics. Current approaches such as pooled CRISPR-Cas9 screen or massively parallel reporter assays on plasmids can't offer much help because 1) they are confined to cell lines, 2) they don't reflect the endogenous regulation (epigenetics?) and 3) they generate heterogeneous collections of indels due to NHEJ. Most importantly, the deep understanding of these subjects require these assessments to be done in the primary cells to study the massive diversity of human pathologies. For instance, the production of blood and immune cells, hematopoiesis, is so complex and its associated disorders adds another layer of complexity in genetic makeup. To complicate this even further, these states are only transient and rarely observed if any. This further limits the use of well-established CRISPR-Cas9 as their stable expression via lentivirus can be cytotoxic. Lastly, the assessment of the various cell states requires the highly sensitive and general readout to map the genetic mutations to transcriptomic and proteomic outputs
+
+To induce the desired base edit, the authors introduced the ABE8e via electroporation after lentiviral transduction of the sgRNA. This generated 80% editing efficiency of alleles in the HSPC without affecting the cell viability. Next, to develop the sensitive transcriptomic readout, they resolved to the CROP-seq, which is next-gen scRNA-seq. As described by Bock's group, this method allows the mapping of the sgRNA input to transriptomic changes as output by 1) encapsulating the poly-T barcoded beads and the cells edited with Cas9 and sgRNA containing the poly-A tails and 2) cell lysis in droplet and 3) mRNA annealing. As a result of this process, the sgRNA can be captured and enriched along with the mRNA info. 
+
+<img width="635" alt="Screenshot 2023-08-08 at 9 56 08 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/ff16e410-3a96-4253-93e4-28b34d934286">
+
+Figure adapted from Figure 1 of Ref 2. 
+
+The authors tested the modified CROP-seq (Ref 2) and direct gRNA capture (Ref 3), but the detection was only minimal for the latter. The general workflow of the former approach is laid out in the figure below. A few modifications are worth noting here: **First**, they applied the methods to the HSPCs treated separately in four ways; ABE8e targeting the splice site exon 1 of CD33 with sgRNA, non-targeting sgRNA and AAVS1-targeting sgRNA (last two as negative controls, and AAVS1-safe harbor locus to be used as baseline comparison to the actual sgRNA) and Cas9 targeting the splice site exon 1 of CD33. Why CD33? the CD33 is a viable target for AML as it is present on the membranes of the AML cells. Although the challenge is that these proteins are also present on HSC, some studies suggested that infusing the patients with the CD33-depleted HSC can overcome this challenge and paving the way for the CAR-T therapy. **Second**, instead of beaded-polyT barcoded, they put the barcode on the antibody, which would allow the selection of CD33+ cells followed by the sequencing. **Third**, the editing efficiency was capped at 10% in order to show that even at such low editing efficiency, the readout is sensitive enough to pick up the changes. 
+
+<img width="635" alt="Screenshot 2023-08-08 at 10 07 20 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/ce44836e-ddd6-4960-ab0b-e7d6050ee732">
+
+Figure adapted from Figure 3 of Ref 1. 
+
+A few findings that's also worth mentioning are that 1) by base editing the regulatory regions of fetal hemoglobin HbF (HBG1 and HBG2), they were able to find mutations like -113 A>G which is known to inhibit the binding of BCL11A which is a repressor of HbF. This mutation was not detected by functional screen such as FACS. This, authors noted, could be attributed to the fact that where as the FACS-based functional screens compared the distribution of sgRNA at two extremes of populations, HBf-high (top 30%) and HBf-low (bottom 30%), this scRNA-seq workflow looks at all the profiled cells. The significance of this finding is that the the genetic variation in the non-coding region of the genes can be screened for their effects on the transcriptomic analysis. 
+
+References.
+
+    1. Martin-Rufino, J. D. et al. Massively parallel base editing to map variant effects in human hematopoiesis. 
+    Cell 186, 2456-2474.e24 (2023).
+    2. Datlinger, P. et al. Pooled CRISPR screening with single-cell transcriptome readout. 
+    Nat. Methods 14, 297–301 (2017).
+    3. Replogle, J. M. et al. Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing. 
+    Nat. Biotechnol. 38, 954–961 (2020).
+  
+
 ## **Blog #9 Base editor screens for in situ mutational scanning at scale - continued part 3**
 *2023-08-05*
 
