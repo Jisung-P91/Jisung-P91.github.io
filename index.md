@@ -9,6 +9,21 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #11 CRISPR-STOP: gene silencing through base-editing-induced nonsense mutations** ##
+*2023-08-09*
+
+Before diving into today's paper, I was curious to know about the Golden Gate Assembly, which was ued in the previous blog paper to prepare the sgRNA library. After reading the plasmid 101 blog post on Addgene (Ref2), this is a commonly used method to quickly and easily jam multiple DNA fragments (upto 10 fragments) into a single plasmid. It takes an advantage of the TypeIIS restriction enzyme's cutting which occurs outside of the recognition site, leaving the 4-bp overhang, which can be annealed with the destination vector. Because the cut is outside of the recognition, by placing the recognition site close to 5' and 3', the ligated product doesn't contain the recognition site and thus no more cutting. This is depicted nicely in their original blog post. This is more powerful than the Gibson assembly as the 20 - 40 bp homology is a requirement for the 5' exonuclease to work. Of course, the Golden Gate assembly also has some caveats in that the recognition site must be properly designed to be absent in the coding region. Also, it is known that the annealing process is permissive as 3-bp can be okay.
+
+Now, going into the CRISPR-STOP, I don't find any difference between this paper and the iSTOP paper published in the same year! A few things that I learned: Not all CRISPR-Cas9-induced indels lead to KO and can sometimes give a rise to a new function for the target gene. Moreover, excessive DNA damage and cell death is observed for cells containing multicopy genomic region. As a proof-of-principle, they added the inducible STOP codon in the mCherry and measured the outcome of the editing by the FACS. 
+
+References.
+ 
+    1. Kuscu, C. et al. CRISPR-STOP: gene silencing through base-editing-induced nonsense mutations. 
+       Nat. Methods 14, 710–712 (2017).
+  
+    2. https://blog.addgene.org/plasmids-101-golden-gate-cloning
+    
+
 ## **Blog #10 Massively parallel base editing to map variant effects in human hematopoiesis** ##
 *2023-08-06*
 
