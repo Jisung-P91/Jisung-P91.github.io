@@ -9,6 +9,17 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #12 CRNAs with embedded barcodes boost CRISPR-pooled screens** ##
+*2023-08-11*
+
+The CRISPR-KO screening facilitates the understanding of functions of coding/-non-coding genes and regulatory elements by knocking out the genes of interest w/ sgRNA library and observe its effects on the desired phenotypes. As good as it can be, the screening suffers from the assay requirement which limits the multiplicity of infection (MOI, ratio of gRNA/cell) to ensure that each cell gets one sgRNA (MOI < 1, usually 0.3 - 0.5). The MOI is very difficult to control, especially when the system becomes more complex (in vivo, for example). In this paper, the authors hypothesized that the false disovery rate could be lowered by implementing the experimental replicates. To do so, they developed a barcoding system in which each sgRNA contains a unique but redundant-across-whole-sgRNA-pool 6-nt barcode which would allow multiple barcodes for the same sgRNA. This would be then adopted in the pooled screening. 
+
+<img width="501" alt="Screenshot 2023-08-11 at 12 39 33 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/c206b9a2-f373-4ac5-b0c7-f2444f457ef9">
+
+Figure adapted from Ref 1. 
+
+As shown in the figure above from the paper, NT-sgRNA shows random fold change (toxin treatment vs. reference), which is expected, whereas the sgRNA^ANTXR1 shows the consistent phenotypic outcomes. The caveat of this method is the high likelihood of cytotoxic high MOI. 
+
 ## **Blog #11 CRISPR-STOP: gene silencing through base-editing-induced nonsense mutations** ##
 *2023-08-09*
 
