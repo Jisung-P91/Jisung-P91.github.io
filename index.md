@@ -20,6 +20,11 @@ Figure adapted from Ref 1.
 
 As shown in the figure above from the paper, NT-sgRNA shows random fold change (toxin treatment vs. reference), which is expected, whereas the sgRNA^ANTXR1 shows the consistent phenotypic outcomes. The caveat of this method is the high likelihood of cytotoxic high MOI. 
 
+References.
+
+    1. Zhu, S. et al. Guide RNAs with embedded barcodes boost CRISPR-pooled screens. 
+       Genome Biol. 20, 20 (2019).
+  
 ## **Blog #11 CRISPR-STOP: gene silencing through base-editing-induced nonsense mutations** ##
 *2023-08-09*
 
