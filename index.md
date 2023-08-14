@@ -9,7 +9,7 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
-## **Blog #12 CRNAs with embedded barcodes boost CRISPR-pooled screens** ##
+## **Blog #12 gRNAs with embedded barcodes boost CRISPR-pooled screens** ##
 *2023-08-11*
 
 The CRISPR-KO screening facilitates the understanding of functions of coding/-non-coding genes and regulatory elements by knocking out the genes of interest w/ sgRNA library and observe its effects on the desired phenotypes. As good as it can be, the screening suffers from the assay requirement which limits the multiplicity of infection (MOI, ratio of gRNA/cell) to ensure that each cell gets one sgRNA (MOI < 1, usually 0.3 - 0.5). The MOI is very difficult to control, especially when the system becomes more complex (in vivo, for example). In this paper, the authors hypothesized that the false disovery rate could be lowered by implementing the experimental replicates. To do so, they developed a barcoding system in which each sgRNA contains a unique but redundant-across-whole-sgRNA-pool 6-nt barcode which would allow multiple barcodes for the same sgRNA. This would be then adopted in the pooled screening. 
