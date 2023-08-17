@@ -9,6 +9,16 @@ and as chemical biology tools to facilitate the discovery of traditional small m
 
 I have limited knowledge in this field, so I decided to commit to blogging 1 paper everyday
 
+## **Blog #13 Genome-wide interrogation of gene functions through base editor screens empowered by barcoded sgRNAs** ##
+*2023-08-16*
+
+In my opinion, nothing new is reported. They applied their sgRNA barcoding system to base editing to address some of the challenges that their CRISPR-Cas9 screening faced. One particular challenge is the high false negative rate which could be attributed to high MOI leading to multiple cutting and reduced cell viability. 
+
+References.
+
+    1. Zhu, S. et al. Guide RNAs with embedded barcodes boost CRISPR-pooled screens. Genome Biol. 20, 20 (2019).
+  
+
 ## **Blog #12 gRNAs with embedded barcodes boost CRISPR-pooled screens** ##
 *2023-08-11*
 
