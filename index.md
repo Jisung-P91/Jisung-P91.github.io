@@ -3,6 +3,19 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #3 Undercut! undercut! undercut!** ##
+*2024-01-19*
+
+U.S. (and other parts of the globe except China) renewable energy once thrived on the back of global movement to save the planet and now faces existential problems. Key players are on the brink of falling to their knees before competitive Chinese companies. The eastern neighbor has been actively subsidizing its domestic renewable energy reform. This has led to cheap electric cars (which are half the price of the American electric cars), solar panels and wind turbines. Many of the Chinese green energy companies are looking to have toehold in the US by any means, including the invesetment in the installment of manufacturing plants in Mexico. 
+
+In addition to reigning challengers from the East, U.S. companies face many challenges from within. First off, the U.S. has the green protectionism, which imposes tariffs on chinese imports (both final products and components) to encourage the US companies to have competitive advantage at home. However, as [FT argues](https://www.ft.com/content/de696ddb-2201-4830-848b-6301b64ad0e5), the chinese cars are so cheap that even with 25% tariff bump, the price gap is still big enough to lure the Amercian customers. No wonder how BYD exported nearly 5m vehicles in 2023 and sold 0.5 m in the fourth quarter of 2024, beating the then reignign champ, Toyota. The American companies are still struggling with supply chain issues spilling over into inflation and overall slowed demand. The American companies are further constrained by bureaucratic delays. Accroding to the [Economist](https://www.economist.com/business/2023/12/04/the-renewables-business-faces-a-make-or-break-moment), it takes 4 years to get approval to build a solar farm and 6 years to be permitted to build the on-shore wind farm. Moreover, since the most of east-to-connect cities are fully occupied, these farms are built on remote locations and you would also have to build transmission lines, which also need to be approved. Of course, the approval process is important as without it, green energy can be gained as an exchange of labour exploitation as such in Xinjiang, China. Under the new government program to increase economic prosperity in a poor region, the Chinese people with Uyghur and Kazakh background are forced into labour [source](https://cen.acs.org/energy/solar-power/US-solar-polysilicon-supply-problem/100/i33). 
+
+<img width="749" alt="Screenshot 2024-01-19 at 11 36 09 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/de062de7-955e-44cb-a09e-deeeebcad369">
+
+Moreover, the non-Chinese companies should think about positive-sum, not zero-sum. The wind turbine is a great example. The wind turbines can capture more wind and subsequently convert them into electricity more efficiently as the wings get bigger. However, as the turbine wings get bigger, the costs are rising. The bigger problem is that the newer and bigger wings are planned to debut when the proper evaluation of current models is not finished. No wonder Siemens sought a 15bn euro rescue from the Germany goverment. 
+
+<img width="679" alt="Screenshot 2024-01-19 at 11 38 47 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/fe059956-ecdf-4855-9e51-f98a8e0ed03a">
+
 ## **Blog #2 American childcare system is key to maintaining the US economy on track** ##
 *2024-01-02*
 
