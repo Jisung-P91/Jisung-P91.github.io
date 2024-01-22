@@ -5,7 +5,10 @@ Hi, my name is Ji Sung Park. This is a place for me to write on things that I am
 
 ## **Blog #4
 
-            s
+            In America, "micro" donors, who give $100 or less, make up over 60% of the all givers, but only 3% of charitable dollars. Big donors, who give $50,000 or more, make up just 0.2% of all donors but they contribute over 47% by value
+
+
+
 
 ## **Blog #3 Undercut! undercut! undercut!** ##
 *2024-01-19*
