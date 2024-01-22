@@ -3,6 +3,10 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #4
+
+            s
+
 ## **Blog #3 Undercut! undercut! undercut!** ##
 *2024-01-19*
 
