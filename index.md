@@ -24,6 +24,13 @@ The share of american donors dropped from two-thirds in 2000 to half in 2018.
 
 no-strings philanthropy = trust-based philanthropy 
 
+## **Blog #4 News coverage** ##
+*2024-01-26*
+
+Jemima Kelly put a very nice opinion on [FT](https://www.ft.com/content/7358f177-9f93-4e51-9349-22b0c36c0c09), where she argues that the mainstream media's efforts to block Trump on its platform leads to more adverse effects on its viewers. She further argues that minimizing Trump's televised appearance contradicts the core value of journalism which isn't to protect the viewers from "untrue" news but simply to report the news. She also argues that the filtered news coverage is not in the interest of its viewers, three-quarters of whom said the journalists should provide an outlook on the whole political spectrum; quite shockingly, a significant number of journalists, especially the newly-minted ones (60% of under-30), answered that every side did not deserve an equal coverage. Lastly, Jemima argues that deflecting Trump's appearance encourages the viewers to turn to other news outlets such as other polarized news bodies or social media. 
+
+Overall, I agree with her arguments. If we say that filtering out Trump is a result of fact-checking process, does this false news correction put the viewers on the right path towards the true things? [This study](https://journals.sagepub.com/doi/10.1177/20563051231179694) suggests not. They found that when the Chilean viewers were exposed to these corrections, though their mis-conceptions were effectively reduced, they've shown more mistrust in the media and perceived them as biased. This is a result of a tainted truth effect, where corrections make people start doubting other true information [ref](https://link.springer.com/article/10.1007/s11109-020-09597-3). As suggested in the paper, the level of (dis)trust in the media should be carefully gauged prior to publicly deploying the corrections (if any). Presenting the corrected news, and inevitably the existence of misinformation, to already cynical and distrusting viewers lures them away from the media  
+
 ## **Blog #3 Undercut! undercut! undercut!** ##
 *2024-01-19*
 
