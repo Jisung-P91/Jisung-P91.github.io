@@ -24,6 +24,12 @@ The share of american donors dropped from two-thirds in 2000 to half in 2018.
 
 no-strings philanthropy = trust-based philanthropy 
 
+## **Blog #5 AI will not help close the economic gap between wealthy and poor countries** ##
+*2024-02-08*
+
+A new opinion posted on [The Economist](https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world) caught my attention. Just briefly, the writer argued that the advance in the artificial intelligence field will be converging the economic disparities of the global north and south. The basis of this argument was 1) the economic disruption caused by the AI, which will take away the white-collar jobs, make people lose jobs, and etc, will be of less magnitude in the global south, 2) improvement in the education and health care will strengthen the economic growth and 3) unlike the earlier technological leaps which reached some-and-now-rich countries faster and thus led to unfair start of the race to the medal, this one will be spreading everything, everywhere all at once. The chances of AI's disruption in the landscape of high-profile profession are increasing, so is the chances of automation being implemented in the supply process. [This paper](https://www.imf.org/en/Blogs/Articles/2020/12/02/blog-how-artificial-intelligence-could-widen-the-gap-between-rich-and-poor-nations) argued that the richer countries will be substituting the workers with robots, and this will cause a great divergence as it puts the downward pressure on the prices of goods. With that, the investment will most likely stay in the north and the south will still be lagging behind the subsequent advances in technologies.
+
+
 ## **Blog #4 News coverage** ##
 *2024-01-26*
 
