@@ -3,7 +3,8 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
-## **Blog #6 Trackers, not spades
+
+## **Blog #6 Trackers, not spades ##
 *2024-02-14*
 
 As usual, while browsing the opinions on FT, I found [this piece](https://www.ft.com/content/d5c9e07b-1278-4815-a9e9-203642a83e09) which argues that the share of national income owing to labour is declining in US mostly due to the replacement of people with machines, amongst other reasons such as globalization (workers can't move as freely as the owners) and asymmetrical growth of the big companies. Many studies indicated that the declining share of the economic pie for labour can result in the civil unrest due to elevating inequality as it affects the manufacturing workers who perform routine tasks (1 robot can eliminate 3.3 workers). So what to do? the author suggested to encourage the employers to hire humans by providing incentives to do so such as reduced payroll taxes and subsidies. She advocates that the workers should be given lower-barrier access to higher education so that their tasks are not just routine-based. 
