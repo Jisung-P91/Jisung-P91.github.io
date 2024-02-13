@@ -24,6 +24,19 @@ The share of american donors dropped from two-thirds in 2000 to half in 2018.
 
 no-strings philanthropy = trust-based philanthropy 
 
+## **Blog #6 Power Slap is the Tiktok for all combat sports** ##
+*2024-02-09*
+
+A new article posted on [The Economist](https://www.economist.com/culture/2024/02/01/the-violence-of-power-slap-is-part-of-its-allure) was an interesting read. 
+
+## **Blog #6 Trackers, not spades
+*2024-02-14*
+
+As usual, while browsing the opinions on FT, I found [this piece](https://www.ft.com/content/d5c9e07b-1278-4815-a9e9-203642a83e09) which argues that the share of national income owing to labour is declining in US mostly due to the replacement of people with machines, amongst other reasons such as globalization (workers can't move as freely as the owners) and asymmetrical growth of the big companies. Many studies indicated that the declining share of the economic pie for labour can result in the civil unrest due to elevating inequality as it affects the manufacturing workers who perform routine tasks (1 robot can eliminate 3.3 workers). So what to do? the author suggested to encourage the employers to hire humans by providing incentives to do so such as reduced payroll taxes and subsidies. She advocates that the workers should be given lower-barrier access to higher education so that their tasks are not just routine-based. 
+
+The opinion doesn't offer much on how to stop the capitalism-driven shift from manual to automated labour. Lowering the payroll taxes and increasing the government subsidies would most likely mean to put the burden on the companies, which would eventually leave no choice but to cut more staff and implement more automation. The US manufacturing sector employed more than [13 mn Americans](https://www.ft.com/content/70d863ed-74d8-43fc-80ce-debdaa1b897f), a milestone reached since the economic meltdown in 2008 and thanks to the IRA to build the confidence in the private businesses and investors that the US gov't will support the vertically integrated US manufacturing sector. However, these factories are capable of printing out everything that was once deemed impossible without the dexterity of mankind. Labour shortages, skills gap and high interest rate are only going to bring this on the horizon sooner than later. 
+
+
 ## **Blog #5 AI will not help close the economic gap between wealthy and poor countries** ##
 *2024-02-08*
 
