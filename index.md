@@ -3,9 +3,15 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #7 From social networks to social media** ##
+*2024-02-13*
+
+Social networks such as Facebook were built to serve as a platform for an online public square. It was irresistable not to participate because it is a human nature to find it amusing to sneak-peak at lives of their friends. Today 3 bn people are connected through the online platform, which account for abuot 60% of internet users. The current landscape of the social networks is not what Mark Zuckerberg described two decades ago. In US, ~ 30% online users would document and share their life online, down from 40% in 2020. The modern recommendation algorithm loads the posts/videos from the whole internet based on the user's interest, which I think makes the users feel insecure about posting their life as it gets compared to the whole online universe, not just your social circle. Also, the content format has shifted from words to short videos playing on an infinite queue. The users would be binge-watchig them, contributing to consumption of a quarter of waking hours. That leaves fewer hours to users to share their life. Lastly, sharing personal stuff has gotten only more difficult as the US became more divided and polarized. The users are discouraged from sharing their views and became passive consumers of the contents that the online influencers share. This might explain why the polarized online influences are sensational as they represent the voice of the quiet public. 
+
+Ref: [As Facebook turns 20, politics is out; impersonal video feeds are in](https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in). 
 
 ## **Blog #6 Trackers, not spades** ##
-*2024-02-14*
+*2024-02-12*
 
 As usual, while browsing the opinions on FT, I found [this piece](https://www.ft.com/content/d5c9e07b-1278-4815-a9e9-203642a83e09) which argues that the share of national income owing to labour is declining in US mostly due to the replacement of people with machines, amongst other reasons such as globalization (workers can't move as freely as the owners) and asymmetrical growth of the big companies. Many studies indicated that the declining share of the economic pie for labour can result in the civil unrest due to elevating inequality as it affects the manufacturing workers who perform routine tasks (1 robot can eliminate 3.3 workers). So what to do? the author suggested to encourage the employers to hire humans by providing incentives to do so such as reduced payroll taxes and subsidies. She advocates that the workers should be given lower-barrier access to higher education so that their tasks are not just routine-based. 
 
