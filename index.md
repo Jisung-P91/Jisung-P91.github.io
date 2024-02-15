@@ -3,6 +3,13 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #7 Commercial real estate (CRE) woes and WeWork legacy** ##
+*2024-02-14*
+
+The New York Community Bank's shares plummeted after its announcement of surprising losses from lending, cutting its dividends to cover for its damage and on top of that, Moody's downgrading it to junk status. Some argue that the NYCB's fall is not like what we saw with the regional bank crisis. By numberse, the crisis remains contained to small banks as shown in the chart below. The refinancing of the CRS loans is not due 2025: only about 17% of the loands is due in 2025 and 57% is not even due until 2026. So why worry? It's difficult to get people back in the office after enjoying the last few years of WFH lifestyle. The Kastle Back to Work barometer is at 53% now, improved from 48.5% since Jan 10, but it is the remaining 47% that will be tough to pursuade that the offices offer much more than their homes. In busy cities like New York and London, where these CRE concerns are more serious, commuting time is proportionally longer and eats away people's time for no reason. Also, people have learnt that they prefer social interactions within the private circles through direct messaging and became passive consumers of social media. This means that the workers show little interest in building offline human relationships with their colleagues. With that said, I think the co-working space, or also called flex spaces, would be something that satisfies the company's needs to get them back into office (very rarely) and workers' needs to avoid communting. 
+
+<img width="791" alt="Screenshot 2024-02-15 at 12 48 08 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/8b66d010-7bee-4bf7-a5f5-e677c8020796">
+
 ## **Blog #7 From social networks to social media** ##
 *2024-02-13*
 
