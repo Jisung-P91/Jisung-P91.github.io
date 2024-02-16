@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #8 Every coin has two sides** ##
+*2024-02-16*
+
+Every coin has two sides, even for a sounding social reform like closing the gender pay gap in our societies. Policymakers around the world have tackled the gender inequality in pay by making [pay more transparent](https://www.ft.com/content/b6ba59f6-0027-4574-a46d-cc93390b4737). There are many ways you can go about it. Countries like Sweden and Finland make individual's pay publicly accessible and many American employers are required to post the pay bands in their job postings. While the pay transparency ensures that the employers do away with unfair compensation, it apparently curbs the pay of male employees to close the gap. Other risks of the pay transparency include lower productivity from male employees and other employees who now know that they are getting paid less than their peers. All of these issues stemming from the pay transparency are complementary to the necessary social reform. No social reform proceeds smoothly. There are always speed bumps and detours. But we will get there. 
+
 ## **Blog #7 Commercial real estate (CRE) woes and WeWork legacy** ##
 *2024-02-14*
 
