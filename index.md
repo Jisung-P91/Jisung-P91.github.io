@@ -3,6 +3,13 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #11 Next year's valentine's day will celebrate without chocolates** ##
+*2024-03-01*
+
+Chocolates are everywhere under the sun from Valentine's day gift to a nutritional granola bar. However, to chocolate enthusiasts and Valentines, the sad news is that their affection for the chocolate is set to expire as the price of cocoa is surging (see the chart below). A few reasons are laid out in this [article](https://www.ft.com/content/4ea3116d-6a55-4d14-8a47-8988209dc1e5): 1) A climate change such as El Niño has cut the global crop yield by 11% from the two largest suppliers, Ivory Coast and Ghana, 2) Cocoa tree infection by bugs and fungi and 3) price fixing by the government export cartels. The coalition between Ivory Coast and Ghana, modeled on oil's OPEC, sets the price based on the average from the last season was designed to protect the cocoa farmers from the lows by introducing price premiums in the market. However, the price setting prevents the farmers from benefitting from the highs. The margins are even thinner for the farmers who need to pay more for sustaining the farms (the coalition covers the cost of pesticides and trees, but apparently these promises never materialize). The farmers are further hamstrung as their cocoa trees have aged and need to be re-planted. 
+
+<img width="551" alt="Screenshot 2024-03-01 at 4 18 39 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/ad11b413-221e-4ade-981b-6c800efd375d">
+
 ## **Blog #10 CRE - worrisome damage but not a canary in the coal mine** ##
 *2024-02-16*
 
