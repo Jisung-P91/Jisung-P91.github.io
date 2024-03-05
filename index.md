@@ -3,7 +3,7 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
-## **Blog #13 When the rubber meets the road (literally) and the stalled housing market
+## **Blog #13 When the rubber meets the road (literally) and the stalled housing market** ##
 
 Electric vehicles emit zero emissions compared to gas-burning counterparts - let me be more specific, zero **exhaust** emissions. This [article](https://www.wsj.com/articles/electric-cars-emit-more-soot-california-ban-gas-powered-vehicles-521b29e3) shed more light on the unspoken and uncomfortable truth about non-exhaust emissions. As tires resist the friction during acceleration/deceleration and drifting and driving, they wear out and release toxic particulate (4 kg per annum!) into air, waterways and eventually us. This issue is particularly more serious for EVs as they are heavier than the gasoline vehicles due to heavy batteries thus creating more friction as the wheels roll. As the California's plan to ban the sale of gasoline vehicles by 2035 is on the Biden admin's table, it needs to show that the EVs don't bring these particulates much to the public, which looks like an impossible task for a foreseeable future. Some suggests that the drivers don't accelerate from the stop or hit the brakes too aggressively (in fact, the EVs are capable of regenerative braking to bring the cars to stop gradually), but why would you buy these expensive EVs only to drive gently?
 
