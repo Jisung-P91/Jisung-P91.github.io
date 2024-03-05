@@ -3,9 +3,19 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
-## **Blog #12 The impact of QT under spotlight
+## **Blog #13 When the rubber meets the road (literally) and the stalled housing market
+
+Electric vehicles emit zero emissions compared to gas-burning counterparts - let me be more specific, zero **exhaust** emissions. This [article](https://www.wsj.com/articles/electric-cars-emit-more-soot-california-ban-gas-powered-vehicles-521b29e3) shed more light on the unspoken and uncomfortable truth about non-exhaust emissions. As tires resist the friction during acceleration/deceleration and drifting and driving, they wear out and release toxic particulate (4 kg per annum!) into air, waterways and eventually us. This issue is particularly more serious for EVs as they are heavier than the gasoline vehicles due to heavy batteries thus creating more friction as the wheels roll. As the California's plan to ban the sale of gasoline vehicles by 2035 is on the Biden admin's table, it needs to show that the EVs don't bring these particulates much to the public, which looks like an impossible task for a foreseeable future. Some suggests that the drivers don't accelerate from the stop or hit the brakes too aggressively (in fact, the EVs are capable of regenerative braking to bring the cars to stop gradually), but why would you buy these expensive EVs only to drive gently?
+
+In light of what we discussed in the blog #12 about the impact of QT selling the MBS, the [Unhedged article](https://www.ft.com/content/b0609880-2f07-4fc6-bacd-5ecfb922d30f) calls the current housing market, frozen spring. They observed that the house prices are moving [sideways](https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/sp-corelogic-case-shiller-composite/#overview) when other assets are all surging (even Bitcoins!). A big contributor to this is the sluggish supply of houses in the market (see below). This makes sense since many homeowners got a good, if not the best, mortgage rate during the pandemic for 20 years. Who wants to sell now, when you can work from home and the mortgage rate is so high?
+
+<img width="562" alt="Screenshot 2024-03-05 at 4 45 07 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/a67b2000-99fe-44ed-9dd1-ea511f9f122a">
+
+
+## **Blog #12 The impact of QT under spotlight** ##
 
 The QT data is in [here](https://www.chicagobooth.edu/research/igm/USMPF/USMPF%20Paper). As this is the first time the QT got rolled out, many questions on how the monetary policy will impact the market remained to be answered. For one thing, the bond yield increased only modestly which was a big relief for the central bank: rate hikes gave the Fed no other option but to sell off their government bonds to aoivd furhter losses but this sell-off could further destabilize the bond market. Contrary to their fear, this was not observed. Apparently this is a good news for the Fed as it can keep shrinking its balance sheet by selling securities and bonds without causing much turbulence in the market. However, the impact of selling the mortagage-backed securities needs to be carefully monitored as it can lead to higher mortgage rates by banks who want to avoid taking on the risks of lending by selling the MBS to the govnerment. As noted [here](https://www.nytimes.com/2023/11/14/opinion/federal-reserve-housing-market.html), as the MBS gets unloaded, it could nudge the banks to increase the mortgage rates, which would shut down the housing market and equally driving up the rent market. 
+
 
 ## **Blog #11 Next year's valentine's day will celebrate without chocolates** ##
 *2024-03-01*
