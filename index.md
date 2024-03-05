@@ -3,6 +3,10 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #12 The impact of QT under spotlight
+
+The QT data is in [here](https://www.chicagobooth.edu/research/igm/USMPF/USMPF%20Paper). As this is the first time the QT got rolled out, many questions on how the monetary policy will impact the market remained to be answered. For one thing, the bond yield increased only modestly which was a big relief for the central bank: rate hikes gave the Fed no other option but to sell off their government bonds to aoivd furhter losses but this sell-off could further destabilize the bond market. Contrary to their fear, this was not observed. Apparently this is a good news for the Fed as it can keep shrinking its balance sheet by selling securities and bonds without causing much turbulence in the market. However, the impact of selling the mortagage-backed securities needs to be carefully monitored as it can lead to higher mortgage rates by banks who want to avoid taking on the risks of lending by selling the MBS to the govnerment. As noted [here](https://www.nytimes.com/2023/11/14/opinion/federal-reserve-housing-market.html), as the MBS gets unloaded, it could nudge the banks to increase the mortgage rates, which would shut down the housing market and equally driving up the rent market. 
+
 ## **Blog #11 Next year's valentine's day will celebrate without chocolates** ##
 *2024-03-01*
 
