@@ -4,6 +4,7 @@ About
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
 ## **Blog #13 When the rubber meets the road (literally) and the stalled housing market** ##
+*2024-03-05*
 
 Electric vehicles emit zero emissions compared to gas-burning counterparts - let me be more specific, zero **exhaust** emissions. This [article](https://www.wsj.com/articles/electric-cars-emit-more-soot-california-ban-gas-powered-vehicles-521b29e3) shed more light on the unspoken and uncomfortable truth about non-exhaust emissions. As tires resist the friction during acceleration/deceleration and drifting and driving, they wear out and release toxic particulate (4 kg per annum!) into air, waterways and eventually us. This issue is particularly more serious for EVs as they are heavier than the gasoline vehicles due to heavy batteries thus creating more friction as the wheels roll. As the California's plan to ban the sale of gasoline vehicles by 2035 is on the Biden admin's table, it needs to show that the EVs don't bring these particulates much to the public, which looks like an impossible task for a foreseeable future. Some suggests that the drivers don't accelerate from the stop or hit the brakes too aggressively (in fact, the EVs are capable of regenerative braking to bring the cars to stop gradually), but why would you buy these expensive EVs only to drive gently?
 
@@ -13,6 +14,7 @@ In light of what we discussed in the blog #12 about the impact of QT selling the
 
 
 ## **Blog #12 The impact of QT under spotlight** ##
+*2024-03-03*
 
 The QT data is in [here](https://www.chicagobooth.edu/research/igm/USMPF/USMPF%20Paper). As this is the first time the QT got rolled out, many questions on how the monetary policy will impact the market remained to be answered. For one thing, the bond yield increased only modestly which was a big relief for the central bank: rate hikes gave the Fed no other option but to sell off their government bonds to aoivd furhter losses but this sell-off could further destabilize the bond market. Contrary to their fear, this was not observed. Apparently this is a good news for the Fed as it can keep shrinking its balance sheet by selling securities and bonds without causing much turbulence in the market. However, the impact of selling the mortagage-backed securities needs to be carefully monitored as it can lead to higher mortgage rates by banks who want to avoid taking on the risks of lending by selling the MBS to the govnerment. As noted [here](https://www.nytimes.com/2023/11/14/opinion/federal-reserve-housing-market.html), as the MBS gets unloaded, it could nudge the banks to increase the mortgage rates, which would shut down the housing market and equally driving up the rent market. 
 
