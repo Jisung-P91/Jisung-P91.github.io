@@ -1,4 +1,4 @@
-## **Blog #4
+Ideas
 
 Disburse money faster with a greater impact - a new emerging slogan in the philanthropic world that started since the turn of the pandemic era. -> most possible with easy money during the low-interest and cash-flowing period?
 
