@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #14 it's really hard to tell what is kosher** ##
+*2024-03-08*
+
+If we think of carbox removal as an innovation, carbon credits are rewards for all the sweats and tears that paid off. Transformation in the auto industry from combustible to electric has milked this opportunity to turn profittable or reduce their price to dominate the market. Forestation is an obvious one to earn credits as it actively takes up the carbon dioxide from the atmosphere and converts it into some form of energy. Another carbon credit, avoidance credits, is given when you show that you have avoided introducing more carbons into the atmosphere, such as not cutting down the trees. The problem here is that it is hard to quantify how much carbon generation has been avoided by not taking down the trees. If you show that the land, if converted to some emission-generating factory grid, would generate a ton of emission, then maybe it should earn more credits? 
+
 ## **Blog #13 When the rubber meets the road (literally) and the stalled housing market** ##
 *2024-03-05*
 
