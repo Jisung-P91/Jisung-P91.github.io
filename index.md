@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #15 My response to the Economist article, "how to fix the Ivy league"** ##
+*2024-03-10*
+
+An [article](https://www.economist.com/leaders/2024/03/07/how-to-fix-the-ivy-league) came up and summarized the fiascos of the recent months happenning at elite universities. The author suggests that the admission should consider reinstating the standardized test to make it fair for everyone, not for the offsprings of alumni or wealthy families. It also advocates trimming down the corporate boards that are supporters of the presidents who are elected by the DEI standards. Lastly, it suggests to stop policing the view of students and faculty. My response is that the standardized test is inherently flawed to give a fair chance as wealthier students tend to lead the scoreboards and it is unclear whether they are truly outstanding students or well-resourced students. It doesn't sit well with me when I read these articles that summarize the pro-genocide protests without the context of timeline. The protests were largely seen after the Israel troops started the retailiation against the Hamas in Gaza, which inevitably killed many innocent civilians. Yes, no matter what, the protest should not be calling for anti-semitism and genocide of any ethnic groups. But by omitting the order in which the events took place in a timely manner, it portrays these protests as cheerleaders of Hamas terrorists. These protesters were furious at the dying of innocent Gaza civillians. Again, I must assure you that their call for genocide cannot be forgiven. But, without knowing the root of their wrongdoing, there will be no fixing of the Ivy league. These protesters aren't unique to the Ivy league schools. They are everywhere, from your streets in the neighborhood, a city square and online reddit forums. They can't be weeded out by simply changing the leaders. As the article points out, the schools need to allow free speech and diverse views of their students and faculty in a manner which strives to listen and works towards the goal of fixing the root problem. 
+
 ## **Blog #14 it's really hard to tell what is kosher** ##
 *2024-03-08*
 
