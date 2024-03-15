@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #17 How are noodles different from other staple food"** ##
+*2024-03-15*
+
+As the authors in this [article](https://www.ft.com/content/fa3d201e-0e0b-461b-a623-c75c7312becd) puts, the current demand for instant noodles suggest an economic red flag as this processed commodity is an index of primacy of needs over greeds. The sticky inflation and highy interest rates turned discretionary spenders to conservative ones. But, the economy overall looks very resilient. The job data looks strong, QT roll-out did not lead to disastrous bond market and consumer spending is still marchig foward. But my question is, what is so special about the noodles? why didn't other food commodities behave like the noodles? 
+
 ## **Blog #16 More Ivy schools are reinstating the standardized test requirements"** ##
 *2024-03-13*
 
