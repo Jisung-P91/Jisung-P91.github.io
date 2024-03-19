@@ -3,6 +3,12 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #18 Unintended consequence of overturning the female inequality** ##
+*2024-03-19*
+
+When you want to make a fair game for everyone, something's gotta give. The gender movement has improved the female rights in many different societies. The gender pay gap is narrowing to an all-time low (although it is still 77 cents for every dollar paid to men), there are more females students on university campuses and more female leaders are taking the podium. While this all looks like what it should be in aggregate, an [increasing number](https://www.ft.com/content/1decbdd1-3518-4faa-be7d-e1bc0471ad9d) thinks that we have done way so much for women equality that the men's equality is left in the shadows, or even compromised. Especially, the Gen-Z men are more inclined to feel discriminated. Some [reasoned](https://www.economist.com/leaders/2024/03/14/making-sense-of-the-gulf-between-young-men-and-women) that the female outperformance in schools, which translate to better career advances and higher expectations for mating, leaves the less-educated men resentful and angry in the far right. The gender movement should be aimed at correcting the systemic prejudice and discrimination embedded in our society. There will be unavoidable tale of woes from men during this rebalacing process who have capitalized on the male-dominant society in the past decades. However, we must ensure that the young generations don't view this as biased against their own sex growing up. We must strive to ensure that there is no men's rights movement in the future.  
+
+
 ## **Blog #17 How are noodles different from other staple food** ##
 *2024-03-15*
 
