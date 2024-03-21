@@ -3,7 +3,7 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
-## **Blog #19 Biden administration should not oppose the US Steel deal ** ##
+## **Blog #19 Biden administration should not oppose the US Steel deal** ##
 *2024-03-20*
 
 The Biden administration is clearly playing a electoral tactic here to win more voters from the swing state. They would endorse other domestic bidders to keep their iconic company domestically owned even though the bid came in lower. On the other hand, the Japanese bidder, Nippon Steel, promised to pump huge investment, boosting the wages and benefits for the workers. But, the union of just over 20000 USS workers is still feeling bitter about the fact that they were part of the acquisition process. The union comprised largely of aged workers (30% > 40+) does not know that 1) the Japanese corporate is clueless about how the union works and thus didn't invite the union to the table and 2) it is more economically sensible for their company to receive this cash injeciton than to worry about losing their jobs due to corporate decisions by the Japanese. 
