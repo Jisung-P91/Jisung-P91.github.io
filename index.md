@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #20 More on the Biden Block and the current state of mass media** ##
+*2024-03-21*
+
+Will potecting the small yard with high fences give the Biden a win in those swing states? Frankly no. His protectionism is not original nor the one and only. His competitor, Mr. Trump, has shown how to do it - so much so that he put it on his iconic red hat, "Make America Great Again". Some believe that the deal will eventually go through during Biden's next presidency, if elected again. Even if the deal is blocked before the election, it will mean only little to his election. Such news, mostly covered in the mass media, apparently doesn't even [reach](https://www.ft.com/content/451e7466-7a91-4784-aa37-02993ff0fc9e) the voters due to lack of interest. 
+
 ## **Blog #19 Biden administration should not oppose the US Steel deal** ##
 *2024-03-20*
 
