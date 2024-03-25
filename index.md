@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #21 Bet on the yen?** ##
+*2024-03-25*
+
+BoJ has finally raised its overnight borrowing cost from sub-zero to 0.1%. This is truly the historic day for Japan's deflationary economy and foreign exchange market. The Japanese currency has served as a safe haven for asset management due to its stability, low inflation and liquidity. This new fiscal policy means that the market participants need a new strategy to diversify their portfolio and makes the carry trades less profittable. But, some like [Alaska Air](https://www.ft.com/content/f3e8923a-2c24-462a-a1ea-16264a3236e3) sees this as an opportunity to capitalize. The Fed's hawkish monetary policy has been a trip stopper for the Japanese vacation goers and impacted the Hawaiian Airlines really bad. The outcome of this deal hinges on the Fed's and BoJ's decisions on further rate cuts and hikes, respectively. The US's strong economy during this tightening cycle is a good news for the Fed - it will take its time to announce further rate cuts and recently announced the future projection to around 3% by 2026. On the other hand, it is uncertain whether the Japanese economy can withstand the rate hikes. 
+
 ## **Blog #20 More on the Biden Block and the current state of mass media** ##
 *2024-03-21*
 
