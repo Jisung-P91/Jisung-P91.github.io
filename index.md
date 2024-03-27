@@ -3,6 +3,15 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #22 Sorry, your dream home might be drifting away** ##
+*2024-03-26*
+
+The directionality of mortgage rate might not be heading downward. The mortgage rate is calculated based on a few numbers including the yield spread of the mortgage-backed securities (MBS) and 10-year Treasury yield. The investors, including the Fed, would demand a higher yield on the MBS relative to the benchmark treasury yield because it is riskier. Right now, the investors have the rights to demand a higher yield from such high mortgage rates - why? because if the rates come down (it will as the Fed signalled three cuts this year), the homeowners would want to refinance their current loans to get a lower rate and thus scrapping the fixed income for the investors. The Fed is currently trimming its balance sheets, dumping its MBS and possibly not buying any new ones (as a part of QT, mentioned in my previous Blog #12) in the near future. The banks are also not going to re-enter as big investors as their purchasing power is restrained by regulators who don't want to see the banking crisis recurring. The borrowers are still feeling the inflation and would stay happy at 3 - 4% rate, explaining the shortage of homes on sale in the current housing market. I also think that the end of negative interest rate by BoJ would encourage the Japanese investors to sell their MBS to reconsider the investment at home. This would further push up the yield of the MBS and thus widening the spread. 
+
+<img width="644" alt="Screenshot 2024-03-26 at 10 49 15 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/b26eda23-b1b7-429e-ad58-368049efd779">
+
+Ref: [WSJ](https://www.wsj.com/finance/the-new-normal-for-mortgage-rates-will-be-higher-than-many-hope-40a10162)
+
 ## **Blog #21 Bet on the yen?** ##
 *2024-03-25*
 
