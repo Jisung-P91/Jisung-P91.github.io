@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #23 Understanding the wrong bet on the Yen** ##
+*2024-03-27*
+
+As the BoJ is poised to warrant a high interest rate and make its currency more valuable. Accordingly, investors saw it as an opportunity to capitalize on - the price of yen will go up. However, [this article](https://www.ft.com/content/19d75d3e-194d-4775-a098-106f13c51ae2) explains why the yen was depreciated instead from ¥141 to ¥152. The investors' forecast overlooked the dynamic and complicated relationship in the currency pairing, in this case, yen and the dollar. During the tightening cycle, the US economy endured well with strong job market and unshakeable consumer demand. This made the Fed keep the overnight funding funds rate at 5.33%, unchanged since Apr 2023. Thus, the dollar still remained attractive and relatively made the yen less valuable. Also, the Japanese currency remained as popular funding currency for carry trades in today's exchange market. A big contributing factor is that the exchange rate still remain low volatile albeit with all the wars and geopolitcal tensions, which could hughly affect the volatility. 
+
 ## **Blog #22 Sorry, your dream home might be drifting away** ##
 *2024-03-26*
 
