@@ -17,6 +17,8 @@ The directionality of mortgage rate might not be heading downward. The mortgage 
 
 Ref: [WSJ](https://www.wsj.com/finance/the-new-normal-for-mortgage-rates-will-be-higher-than-many-hope-40a10162)
 
+Revised (Mar 27, 2024) - The new rule on the broker fee could deter the buyers from entering the real estate. The buyers need to pay their own realtor fee, which used to be split from the sellers' side. This would lower the demand for the mortgages, leaving the mortgage brokers with no options but to price in more profitable margins in their rates to keep their business going. 
+
 ## **Blog #21 Bet on the yen?** ##
 *2024-03-25*
 
