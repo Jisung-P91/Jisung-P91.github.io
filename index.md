@@ -3,6 +3,11 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #24 Please stop the famine** ##
+*2024-03-30*
+
+According to [this Economist article](https://www.economist.com/middle-east-and-africa/2024/03/27/gaza-is-on-the-brink-of-a-man-made-famine), the famine in Gaza is imminent as approx. 70% of 0.3 mn Gaza residents would experience a severe food insecurity in the next two months. What is even more disturbing is how common the malnutrition is amongst the little ones (29% of the northern Gaza children under 2 years old suffer from the malnutrition). At issue is unwillingness from both Hamas and Israeli govn't to allow in the forein aid to the Gaza residents. Their doing is justified by the Palesstinian's years of being oppressed and Israelis losing their loved by the Hamas terrorists. The war might appear to be a simple fix - releasing just over 100 Israelis. However, no one really treats the Gaza residents as hostages because they've lived in Gaza and been portrayed as Hamas supporters from the main media streams. They are just as hostages as the Israeli hostages waiting to be freed of the geopolitical/religious friction.  
+
 ## **Blog #23 Understanding the wrong bet on the Yen** ##
 *2024-03-27*
 
