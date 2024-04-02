@@ -3,6 +3,15 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #25 3 things that I read** ##
+*2024-04-02*
+
+1. Your frappuccino and caramel macchiato are just about to get [more expensvie](https://www.ft.com/content/c719e755-76f6-41ea-af8b-81256591e26e). Harsh weather condition in Vietnam and Indonesia, second- and third-biggest producers of robusta beans, would reduce the output by one-fifth, which accounts for the second consecutive year of decline. Soon, the retailers and coffee restaruants will need to pass costs onto consumers, who will blame it on the inflation, not the climate change.
+
+2. The new law will soon keep the realtors out of jobs according to [this article](https://www.ft.com/content/cdefbf49-f48e-47fc-8008-135a9b795f0b). The new ruling lifts the seller's obligation to pay for both seller-side and buyer-side realtors and requires the buyers to pay for their own agents. This would mean that the buyers will go agent-less on their house hunting and mean a tough going for the realtors. In reality, though, it might not be a blow to the brokers who do it for the side-hustle. This new law could compound the already low demand in the housing market, further trapping the real estate in the low. The big question is whether the housing market will work without the real estate agents. In my opinion, the brokers act as market makers that work in the favour of their clients.
+
+3. Should the rents be regulated? [This article](https://archive.is/hV60H] argues not. In the regulated-rent market, the landlord can't raise the rents without justifying at the local court and it is not cost-efficient. This leads to more landlords pulling their rents out, may even default due to lower housing values and increased refinacing cost. This would put more pressure on the local lenders like NYCB as it further squeezing the balance sheets (NYCB reported 14% of the rent-regulated loan book is at the risk of default)... In the meantime, [rent raising](https://www.wsj.com/real-estate/commercial/the-office-market-is-in-turmoil-so-why-are-rents-more-expensive-d096f961?mod=real-estate_lead_pos1) seems to be flying in the face of reason for the landlords who want to increase the housing value in this cold housing market. 
+
 ## **Blog #24 Please stop the famine** ##
 *2024-03-30*
 
