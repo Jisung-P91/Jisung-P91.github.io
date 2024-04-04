@@ -3,6 +3,17 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #27 3 things that I read** ##
+*2024-04-04*
+
+1. Gold prices are [surging](https://www.ft.com/content/fa1b68ab-5b4e-4574-ba4e-224dcf9cc189). Investors feel that the inflation is sticky and might stay above 3%, which would lower the real interest rate (real IR = nominal IR - inflation rate). The lower real IR would make the treasury bonds less attractive safe havens for the investors. The gold's rally has been given impetus by investors buying call options in the gold futures market, taking into consideration that the central bankers and Chinese consumers are snapping up the gold. 
+   
+<img width="719" alt="Screenshot 2024-04-04 at 8 37 58 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/76b4f11a-6fc0-4c0f-b692-be83189e4f12">
+
+2. The Fed's stance might not exactly what the gold-rush investors are interpreting as. In the latest communication, Jerome Powell signalled that the fight to bring down the inflation is not over suggesting delayed rate cuts and uncertainty about the Fed's ability to bring down the inflation fast (if it can bring down, then its a really bad news for the gold rushers). The market [thinks](https://www.ft.com/content/d5ea31c5-36f6-449e-aa2b-2eea391fc5d9)) that the Fed's benchmark interest rate is 3.6% by 2027, much higher than Fed's median estimate of 2.6%. The market's conviction is due to the resillient U.S. economy and the anticipation is that it will only get stronger with the AI and the election-driven increase in the spending.
+
+3. I am now more interested in this where-is-the-rebate-going story that seems to be at the epicenter of drug pricing issues. The so-called middleman, Pharmacy-benefit managers, negotiate with its customers, drugmakers and insurers, to ensure that the rebate goes to the patients and the drug price stays lower. However, exactly who gets the rebate is not transparent. 
+
 ## **Blog #26 3 things that I read** ##
 *2024-04-03*
 
