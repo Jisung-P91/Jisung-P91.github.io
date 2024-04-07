@@ -3,6 +3,19 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #28 2 things that I read** ##
+*2024-04-07*
+
+1. Home sales seem to be gaining its [momentum](https://www.wsj.com/economy/housing/u-s-home-sales-jumped-nearly-10-in-february-7f77a35a). The market saw a surprising 9% jump in sales compared to January. Although the market is slowly thawing, the article argues that the first time home buyers, which make up 26% of the home buyers, could have a very tough going due to the new rules that require the buyers to pay their own realtors.
+
+2. Although I criticized Mr. Cuban's latest medical venture in my previous post, some generic drugs are currently in [shortage](https://www.ft.com/content/6143300d-d11a-4b2f-898c-87c5dd0ff6ce). The generic drugs make up 91% of the prescribed drugs and we just don't have sufficient stock of the drugs for the patients. Why? The active pharmaceutical ingrdients (API) are supplied by Chinese and Indian companies and any geopolitical tension could disrupt the supply of the APIs. Moreover, the cross-atlantic GMP and GLP often don't comply with the American regulation, which could put an abrupt end to the supply when the FDA inspects the sites. Often these manufacturing contracts are given to lowest-offering bidders, which weed out other suppliers who might have better GMP and GLP. Also, the middlemen which operates on an opaque pricing system can only be bad for the already broken market. 
+ 
+<img width="583" alt="Screenshot 2024-04-07 at 1 23 11 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/c4083320-fba2-4d85-8e67-926b2d7bb7fe">
+
+<img width="573" alt="Screenshot 2024-04-07 at 1 29 32 AM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/235d5449-af02-427a-87df-55da68c88a39">
+
+
+
 ## **Blog #27 3 things that I read** ##
 *2024-04-04*
 
