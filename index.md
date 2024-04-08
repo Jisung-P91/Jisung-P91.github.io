@@ -3,6 +3,14 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+
+## **Blog #29 2 things that I read** ##
+*2024-04-08*
+
+1. Big Health, as [this article](https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system) calls it, has created a complex ecosystem around the drugs that allow each market participant to point fingers at each other for the cost pricing. The middleman PBM acts as a market maker in this pricing game, by negotiating with drug manufacturers about the price in return for putting the drug on the insurance company's formulary. The insurance company then gets a rebate from the PBM for covering the drug. The PBM contracts with the pharmacies to carry these drugs to ensure that the patients get the drugs that benefit the market participant. Things get even more complex when the Big Health vertically integrates from pharmacies and clinics to insurers to PBMs. This gives the Big Health so much power to control the drug price without revealing its secret recipe to make them profittable (the UnitedHealth Group made $324 bn in revenues last year, just behind big techs). There are several disrupting players on the horizon, including the Amazon and Mark Cuban Cost Plus Drug company. But the article argues that they are still galaxies away from their mission because the market is so complex and it is not easy to attract the drug makers from their original deal makers. I think it will be a matter of time as the capital-backed Amazon has recently acquired One Medical and it dominates the logistics.
+
+2. Japan's economy is arguably one of the most important players in the modern economy. [Now](https://www.ft.com/content/b155a989-0e43-4fb2-9326-f44c3abcf24e), this argument has become more appealing as it is doubling down on its alliance with the US. The US-Japan alliance, first heralded by the [economic ties](https://techcrunch.com/2023/05/31/toyota-adds-2-1b-to-its-battery-factory-expansion-plans/), is now formed to strengthen its foothold in the Indo-Pacific and to deter the Chinese dominance. As a result, the Kishida government is moving away from its ban on the arms export, as seen from its joint development with UK and Italy on fighter planes. This would mean to increase the Japanese government spending on the military expenses to 2% of its GDP. As Japan's economy is on its way out of deflation, I think that the Japanese economy will be surely out of it sooner.
+
 ## **Blog #28 2 things that I read** ##
 *2024-04-07*
 
