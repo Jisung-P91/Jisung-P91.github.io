@@ -3,6 +3,14 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #30 2 things that I read** ##
+*2024-04-09*
+
+1. Continuing my journey to understand more about the price inflation caused by unnecessary middlemen. In this [article](https://www.wsj.com/health/healthcare/generic-drugs-should-be-cheap-but-insurers-are-charging-thousands-of-dollars-for-them-ef13d055), a clear price comparison of Big Health and Mark Cuban Cost Plus company makes it hard to deny: the Big Health Bros are truly ripping off the broken market here, penalizing the patients and employers for being sick. The Big Health argues that the overall saving on the drug spending would be greater than these young disruptors that only cover a selection of drugs. They are essentially making the "greater for all" argument here. I argue that their argument makes it more appealing for beneficiaries and employers to opt out and look for more alternate pharmacies that work with the fixed-mark-up and more transparent company. These patients do not need the coverage of drug A to Z when they need just the drug to cure their terminating illness. 
+ 
+<img width="638" alt="Screenshot 2024-04-09 at 2 30 56 PM" src="https://github.com/Jisung-P91/Jisung-P91.github.io/assets/65584136/3e862571-477a-4a3e-85bf-ada83435bb90">
+
+2. Jamine Dimon seems to be riding the ["higher for longer"](https://www.ft.com/content/9c3b136c-79c0-4347-9cc9-b90e5489a85f) boat. His argument is 1) the government spending is still high, 2) transition to green economy is costly, 3) restructuring of global supply chain is also costly and 4) inflationary healthcare cost.
 
 ## **Blog #29 2 things that I read** ##
 *2024-04-08*
