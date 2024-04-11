@@ -3,6 +3,13 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #31 2 things that I read** ##
+*2024-04-10*
+
+1. Trump's SPAC company, DJT, saw a rally upon listing backed by the Trump supporters and profit-seeking traders. Whether this stock price has any fundamental basis or not is [not important](https://www-ft-com.ezproxy.depaul.edu/content/1dad2f2c-b4a8-4cd2-86de-2ca094eb6368) as its PER is already in another domain of capitalism. Very much like what drove the meme stocks and crypto rally in 2021 and now, this new capitalism is all about "why not?". It already is being traded at 1400 multiples so why not 3000 times?
+
+2. BoC is signalling that the rate cuts will be postponed. Many economists expect the rate cuts to start this June on several grounds: 1) strong GDP report might be due to the end of the public sector strikes in Queber, 2) inflation is indeed cooling down faster than expected and 3) temporary immigration cap would slow down the GDP growth in the long view, further dampening the inflation. The market hawks argue that the the committed rate cuts could make the market bounce back into the inflationary cycle further fuelled by the unhealthy expansion of real estate market. This is reflected in the shelter cost part of the inflation calculation.
+
 ## **Blog #30 2 things that I read** ##
 *2024-04-09*
 
