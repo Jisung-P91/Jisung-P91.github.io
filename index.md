@@ -3,6 +3,13 @@ About
 
 Hi, my name is Ji Sung Park. This is a place for me to write on things that I am genuinely interested in. 
 
+## **Blog #32 2 things that I read** ##
+*2024-04-14*
+
+1. In my previous post, I mentioned about how landlords will increase their rent in order to increase the value of their homes in the housing market. Well, as the house gets more expensive, the would-be homeowners flee to rent market, which further drive up the price of rents. The combined inflation of sale and rent market, which are interwined, is called a shelter inflation, and it is believed to play a role in the surprising March CPI report. The [article](https://www.wsj.com/real-estate/rising-rents-housing-inflation-24a439e2) argues that the shelter inflation is coming down as more new rent is supplied through new construction projects and as the seasonality kicks in.
+
+2. The high March CPI made BoJ worries about weakening yen crystallized. The dollar is now worth 153 yen, which would be the line in the sand for the Japanese government to intervene. Historically, Japan's weak currency has somewhat worked okay for several reasons 1) aging population saved rather than spent their free money, thus not causing inflation, 2) carry trade made the Japanese investors have a foothold in the foreign exchange market and 3) export-heavy economy became price-competitive. However, as the reshoring policy has become a thing, the country relies more on the import economy, which would result in high inflation with weak currency. So, many analysts believe that the Japanese government will intervene to buy their yen while selling dollars. This intervention needs to be carried out carefully with close discussion with the US. It will be interesting to see whether their recent political romance will play any role in the intervention.
+
 ## **Blog #31 2 things that I read** ##
 *2024-04-10*
 
